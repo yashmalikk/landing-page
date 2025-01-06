@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yash in blog
-permalink: /blog/post-0/
+permalink: /projects/post-0/
 ---
 # Why this blog exists?
 
